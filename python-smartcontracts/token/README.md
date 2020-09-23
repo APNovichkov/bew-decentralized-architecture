@@ -16,7 +16,7 @@ For [Vyper](https://github.com/vyperlang/vyper), check out [`vyper-token-mix`](h
 
 ## Basic Use
 
-This mix provides a [simple template](contracts/Token.sol) upon which you can build your own token, as well as unit tests providing 100% coverage for core ERC20 functionality.
+This mix provides a [simple template](contracts/ERC20.sol) upon which you can build your own token, as well as unit tests providing 100% coverage for core ERC20 functionality.
 
 To interact with a deployed contract in a local environment, start by opening the console:
 
